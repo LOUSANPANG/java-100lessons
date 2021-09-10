@@ -18,7 +18,7 @@
     // 字符型 1
         // char 2字节 16bit Unicode编码
     // 布尔型 1
-        // boolean true false
+        // boolean 1bit true false
 
 // 引用数据类型
     // 数组 []
