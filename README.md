@@ -1,32 +1,38 @@
-# java-100lessons
+# java-lessons
 
-## 基础
-### 3编译执行
-### 4基本数据类型
-### 5java常量与变量
-### 6类型转换
-### 7运算符号1
-### 8运算符号2
-### 9java语法结构1
-### 10java语法结构2
-### 11java语法结构3
-### 12java语法结构4
-### 13java语法结构5
-### 14java语法结构6
-### 15java数组的使用
-### 16java数组练习1
-### 17java数组练习2
-### 18java二维数组
-### 19IDEA安装使用
-### 20面向对象之属性
-### 21面向对象之方法设计
-### 22面向对象之方法参数返回值问题
-### 23面向对象之方法设计练习
-### 24面向对象之方法重载
-### 25构造方法 块 this用法
-### 26java面向对象之类的练习
 
-## 数据结构与算法
+## 基础部分
+### JavaSE
+    - 面向对象的编程思想
+    - 集合 String
+    - I/O 流 MVC 缓存 文件---数据库  事务
+    - 反射和注解 IOC
 
-## 设计模式
 
+## Level One
+### 数据库
+    - 本质就是文件 基本使用 数据库性能问题 索引 引擎 锁 事务
+### JDBC
+    - 本质就是I/O 手动设计一个ORM--原理 MyBatis
+### WEB
+    - 本质就是Socket IO String 解析
+    - 手动设计一个容器（服务器） 浏览器--->服务器
+    - tomcat
+        * Servlet ---> 手动设置一个WEB框架
+        * JSP解析
+    - filter 责任链设计模式
+    - AJAX
+
+
+## Level Two 框架
+### SSM
+    - Spring SpringMVC MyBatis
+### SSH
+    - Spring Struts Hibernate
+### Linux
+### Maven
+### Git
+### SVN
+
+
+## 分布式 大数据
