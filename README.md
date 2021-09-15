@@ -31,8 +31,6 @@
     - Spring Struts Hibernate
 ### Linux
 ### Maven
-### Git
-### SVN
 
 
 ## 分布式 大数据
