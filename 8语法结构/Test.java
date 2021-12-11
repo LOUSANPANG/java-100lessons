@@ -8,6 +8,7 @@
     
     循环结构
         for
+            for(; ;) {}
         while
         do while
     
@@ -27,16 +28,20 @@ public class Test {
         //     System.out.println("输入其他");
         // }
 
-        int a = 1;
-        switch(a) {
-            case 1:
-                System.out.println("1");
-                break;
-            case 2:
-                System.out.println("2");
-                break;
-            default:
-                system.out.println("3");
-        }
+        // int a = 1;
+        // switch(a) {
+        //     case 1:
+        //         System.out.println("1");
+        //         break;
+        //     case 2:
+        //         System.out.println("2");
+        //         break;
+        //     default:
+        //         system.out.println("3");
+        // }
+
+        // for(int a=1; a<=5; a++) {
+        //     System.out.println(a);
+        // }
     }
 }
